@@ -1,0 +1,4 @@
+column_name,data_type,null_count,distinct_count
+id,int64,0,3
+description,object,0,3
+created_at,object,0,2

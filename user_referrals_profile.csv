@@ -1,0 +1,12 @@
+column_name,data_type,null_count,distinct_count
+referral_at,object,0,44
+referral_id,object,0,46
+referee_id,object,3,37
+referee_name,object,3,35
+referee_phone,object,0,33
+referral_reward_id,float64,38,3
+referral_source,object,0,3
+referrer_id,object,13,13
+transaction_id,object,13,27
+updated_at,object,0,40
+user_referral_status_id,int64,0,3
